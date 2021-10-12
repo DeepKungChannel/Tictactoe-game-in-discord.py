@@ -1,2 +1,2 @@
-Don't forget to put your token discord bot in main.py.
-To use this bot use help command in discord.
+# Commands
+ 1. Start the game --> d/tictactoe [player1] [player2]
